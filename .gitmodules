@@ -1,0 +1,3 @@
+[submodule "projecto"]
+	path = projecto
+	url = https://github.com/huardti/projecto.git
