@@ -1,3 +1,6 @@
 [submodule "projecto"]
 	path = projecto
 	url = https://github.com/huardti/projecto.git
+[submodule "lxgui"]
+	path = lxgui
+	url = https://github.com/cschreib/lxgui.git
